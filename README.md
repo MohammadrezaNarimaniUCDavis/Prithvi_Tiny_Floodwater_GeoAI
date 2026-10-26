@@ -9,11 +9,11 @@ Public Python helpers for **compact foundation-model floodwater segmentation** o
 **Contact:** [mnarimani@ucdavis.edu](mailto:mnarimani@ucdavis.edu)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23653545.svg)](https://zenodo.org/records/23653545)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23653544.svg)](https://doi.org/10.5281/zenodo.23653544)
 
 | Resource | Link |
 | -------- | ---- |
-| **Derived products (Zenodo)** | https://zenodo.org/records/23653545 |
+| **Derived products (Zenodo)** | https://doi.org/10.5281/zenodo.23653544 |
 | **This code** | https://github.com/MohammadrezaNarimaniUCDavis/Prithvi_Tiny_Floodwater_GeoAI |
 | **Sen1Floods11 v1.1** | https://github.com/cloudtostreet/Sen1Floods11 |
 | **Prithvi-EO-2.0** | https://huggingface.co/ibm-nasa-geospatial |
@@ -118,7 +118,7 @@ print(len(subsets["0.10"]), len(subsets["1.00"]))
 
 - **Imagery and labels:** Sen1Floods11 v1.1 hand-labeled Sentinel-2 chips (Bonafilia et al., 2020).
 - **Pretrained encoder:** NASA–IBM Prithvi-EO-2.0 Tiny / 100M (Szwarcman et al., 2026).
-- **Derived tables:** Zenodo record linked above.
+- **Derived tables, split manifests, and a 11-chip sample** (true-colour excerpts, label previews, predicted masks, probability/error GeoTIFFs): Zenodo record linked above. The original Sen1Floods11 GeoTIFF archive is not re-hosted; get it from `gs://sen1floods11`.
 
 ---
 
