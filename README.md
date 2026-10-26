@@ -9,11 +9,11 @@ Public Python helpers for **compact foundation-model floodwater segmentation** o
 **Contact:** [mnarimani@ucdavis.edu](mailto:mnarimani@ucdavis.edu)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PLACEHOLDER.svg)](https://zenodo.org/records/PLACEHOLDER)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23653545.svg)](https://zenodo.org/records/23653545)
 
 | Resource | Link |
 | -------- | ---- |
-| **Derived products (Zenodo)** | https://zenodo.org/records/PLACEHOLDER |
+| **Derived products (Zenodo)** | https://zenodo.org/records/23653545 |
 | **This code** | https://github.com/MohammadrezaNarimaniUCDavis/Prithvi_Tiny_Floodwater_GeoAI |
 | **Sen1Floods11 v1.1** | https://github.com/cloudtostreet/Sen1Floods11 |
 | **Prithvi-EO-2.0** | https://huggingface.co/ibm-nasa-geospatial |

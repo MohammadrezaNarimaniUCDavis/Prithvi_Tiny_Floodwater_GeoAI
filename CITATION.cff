@@ -11,7 +11,10 @@ authors:
     email: mnarimani@ucdavis.edu
     affiliation: "Department of Biological and Agricultural Engineering, University of California, Davis"
 repository-code: "https://github.com/MohammadrezaNarimaniUCDavis/Prithvi_Tiny_Floodwater_GeoAI"
-url: "https://zenodo.org/records/PLACEHOLDER"
+url: "https://zenodo.org/records/23653545"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23653545
 abstract: >-
   Public Python helpers for compact Prithvi-EO-2.0-Tiny
   floodwater segmentation on Sen1Floods11 v1.1, including
